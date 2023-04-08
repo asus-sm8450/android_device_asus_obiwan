@@ -31,7 +31,7 @@
 #define CMD_FINGER_UP 200003
 #define CMD_LIGHT_AREA_STABLE 200002
 
-#define LOCAL_HBM_MODE "/proc/localHbm"
+#define LOCAL_HBM_MODE "/proc/globalHbm"
 #define LOCAL_HBM_ON "1"
 #define LOCAL_HBM_OFF "0"
 
